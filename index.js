@@ -1,1 +1,1 @@
-console.log("Hola mundo desde Node.js 🚀 ok");
+console.log("Hola mundo!");
